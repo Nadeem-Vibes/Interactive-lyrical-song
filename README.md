@@ -72,6 +72,9 @@ This project is designed as a stylized single-purpose desktop visualizer rather 
 
 If you want to reuse it for another song, update the `song.mp3` file and replace `lyrics.lrc` with a new synced lyric track.
 
+Note: The song currently in the repo is not mine. The song and lyrics belong to Matthew Ifield.
+
+
 ## GitHub repo description
 
 A Windows lyric-synced desktop music video built in C++ with Win32, featuring animated lyrics, motion effects, and a dramatic full-screen romantic experience.
